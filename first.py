@@ -1,5 +1,5 @@
+name = "ali"
+lastName = "mohammadi"
+message = f"hey {name}! what's up? is that your lastname? {lastName}."
 
-x = 12
-y = 15
-
-print(x*y)
+print(message)
